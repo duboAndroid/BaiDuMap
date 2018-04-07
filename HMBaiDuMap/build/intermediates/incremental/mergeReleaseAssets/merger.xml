@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\dubo\Desktop\BaiDuMap\HMBaiDuMap\src\main\assets"/><source path="C:\Users\dubo\Desktop\BaiDuMap\HMBaiDuMap\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Users\dubo\Desktop\BaiDuMap\HMBaiDuMap\src\release\assets"/></dataSet></merger>

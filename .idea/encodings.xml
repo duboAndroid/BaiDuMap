@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/HMBaiDuMap/src/main/java/cn/itheima/baidumap/BaseActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HMBaiDuMap/src/main/java/cn/itheima/baidumap/CircleOptionsDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HMBaiDuMap/src/main/java/cn/itheima/baidumap/DrivingSearchDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HMBaiDuMap/src/main/java/cn/itheima/baidumap/HelloWorld.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HMBaiDuMap/src/main/java/cn/itheima/baidumap/LayerDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HMBaiDuMap/src/main/java/cn/itheima/baidumap/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HMBaiDuMap/src/main/java/cn/itheima/baidumap/MarkerOptionsDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HMBaiDuMap/src/main/java/cn/itheima/baidumap/MyLocationDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HMBaiDuMap/src/main/java/cn/itheima/baidumap/PoiSearchInBoundDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HMBaiDuMap/src/main/java/cn/itheima/baidumap/PoiSearchInCityDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HMBaiDuMap/src/main/java/cn/itheima/baidumap/PoiSearchNearByDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HMBaiDuMap/src/main/java/cn/itheima/baidumap/TextOptionsDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HMBaiDuMap/src/main/java/cn/itheima/baidumap/TransitSearchDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HMBaiDuMap/src/main/java/cn/itheima/baidumap/WalkingSearchDemo.java" charset="UTF-8" />
+  </component>
+</project>

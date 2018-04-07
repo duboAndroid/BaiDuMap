@@ -1,0 +1,45 @@
+# view AndroidManifest.xml #generated:51
+-keep class cn.itheima.baidumap.CircleOptionsDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class cn.itheima.baidumap.DrivingSearchDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class cn.itheima.baidumap.HelloWorld { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class cn.itheima.baidumap.LayerDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class cn.itheima.baidumap.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class cn.itheima.baidumap.MarkerOptionsDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class cn.itheima.baidumap.MyLocationDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class cn.itheima.baidumap.PoiSearchInBoundDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class cn.itheima.baidumap.PoiSearchInCityDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:55
+-keep class cn.itheima.baidumap.PoiSearchNearByDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class cn.itheima.baidumap.TextOptionsDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class cn.itheima.baidumap.TransitSearchDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class cn.itheima.baidumap.WalkingSearchDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class com.baidu.location.f { <init>(...); }
+
+# view res/layout/common.xml #generated:6
+-keep class com.baidu.mapapi.map.MapView { <init>(...); }
+

@@ -1,0 +1,53 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "cn.itheima.baidumap"
+        minSdkVersion 8
+        targetSdkVersion 17
+    }
+
+    /*buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+        }
+        debug {//debug也用release签名
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+        }
+    }
+*/
+    signingConfigs {      //1
+        config {
+            keyAlias 'Hmbaidu'
+            keyPassword '11111111'
+            storeFile file('Hmbaidu.jks')
+            storePassword '11111111'
+        }
+    }
+
+    buildTypes {
+        /*release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.config
+        }*/
+        debug {//debug也用release签名
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:19.+'
+    compile files('libs/baidumapapi_v3_3_0.jar')
+    compile files('libs/locSDK_5.0.jar')
+}

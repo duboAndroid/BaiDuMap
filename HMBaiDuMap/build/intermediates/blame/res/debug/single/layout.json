@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\BaiDuMap\\HMBaiDuMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\BaiDuMap\\HMBaiDuMap\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\BaiDuMap\\HMBaiDuMap\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\BaiDuMap\\HMBaiDuMap\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\BaiDuMap\\HMBaiDuMap\\build\\intermediates\\res\\merged\\debug\\layout\\pop.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\BaiDuMap\\HMBaiDuMap\\src\\main\\res\\layout\\pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\BaiDuMap\\HMBaiDuMap\\build\\intermediates\\res\\merged\\debug\\layout\\common.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\BaiDuMap\\HMBaiDuMap\\src\\main\\res\\layout\\common.xml"
+    }
+]
